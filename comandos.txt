@@ -1,0 +1,2 @@
+-> Inicializa um repositório git (Utilizado apenas uma vez)
+git init
